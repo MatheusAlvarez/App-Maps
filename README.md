@@ -4,11 +4,10 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-layout">Layout</a> • 
- <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-layout-web">Layout</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
+ <a href="#-squad-infodevs">Squad</a> • 
+ <a href="#-licença">Licença</a>
 </p>
 
 ## 💻 Sobre o projeto
@@ -17,12 +16,18 @@ O Projeto tem como objetivo, mostrar a localização atual do usuário e informa
 
 ---
 
+## ⚙ Funcionalidades
+ - [x] Visualizar sua localização atual
+ 
+ - [x] Navegar pelo Google Maps
+ 
+ - [x] Visualizar o mapa 3D
+ 
+---
+
 ## 🎨 Layout web
-![GK1](https://github.com/MatheusAlvarez/Matheus-Motors-Reformado/blob/main/_assets/Web01.PNG)
-![GK2](https://github.com/MatheusAlvarez/Matheus-Motors-Reformado/blob/main/_assets/Web02.PNG)
-![GK3](https://github.com/MatheusAlvarez/Matheus-Motors-Reformado/blob/main/_assets/Web03.PNG)
-![GK3](https://github.com/MatheusAlvarez/Matheus-Motors-Reformado/blob/main/_assets/Web04.PNG)
-![GK3](https://github.com/MatheusAlvarez/Matheus-Motors-Reformado/blob/main/_assets/Web05.PNG)
+![GK1](https://github.com/MatheusAlvarez/App-Maps/blob/main/_assets/MicrosoftTeams-image%20(1).png)
+![GK2](https://github.com/MatheusAlvarez/App-Maps/blob/main/_assets/MicrosoftTeams-image.png)
 
 ---
 
@@ -62,7 +67,7 @@ GitHub
   - Utilizamos para hospedarmos o código do projeto.
 ---
 
-## Squad TechnoTrends - Members
+## Squad InfoDevs 
 
 👨‍💻: **- [Matheus Alvarez](https://github.com/MatheusAlvarez "GitHub do Matheus")**
 
